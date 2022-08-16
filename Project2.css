@@ -1,0 +1,474 @@
+.head{
+    width: 100%;
+    height: 80px;
+    background:white;
+}
+body{
+    overflow-x: hidden;
+}
+.head1{
+      width: 40%;
+      margin-top: 10px;
+      margin-left: 103px;
+      float: left;
+}
+.head2{
+    color: #666666;
+    margin-top: 1px;
+    margin-left: 25px;
+    
+
+}
+
+    
+.button{
+    padding-top: 6px;
+    padding-left: 380px;
+    float: left;
+}
+
+
+.button1{
+    height: 50px;
+    width: 100px;
+    border: 0px;
+    border-radius: 25px;
+    background: white;
+    font-size: 17px;
+    cursor: pointer;
+    float: left;
+}
+.button1:hover{
+    background:#F3F2F0;
+}
+.bu{
+    float: left;
+    padding-top: 6px;
+    margin-left: 20px;
+}
+.button2{
+    height: 50px;
+    width: 100px;
+    color: blue;
+    border-radius: 25px;
+    background: white;
+    cursor: pointer;
+    font-size: 17px;
+    border-color:#166DC5;
+}
+.button2:hover{
+    background: rgb(111,169,220);
+    color: white;
+}
+.body1{
+    width: 100%;
+    height: 600px;
+    background:white;
+}
+.left-side{
+    width: 50%;
+    /* height: 700px; */
+    float: left;
+    
+}
+.right-side{
+    width: 50%;
+    /* height: 700px; */
+    float: left;
+    
+}
+.para{
+    margin-top: 40px;
+    margin-left: 105px;
+    font-family:Helvetica, Arial, sans-serif;
+    color: #8F5849;
+    font-size: 55px;
+    
+}
+.image1{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.para1{
+    margin-left: 110px;
+    padding-top: 20px;
+}
+.label{
+    width: 350px;
+    height: 50px;
+    border-width: 1px;
+}
+.para2{
+    margin-left: 110px;
+}
+.button3{
+    width: 165px;
+    height:60px;
+    font-size: large;
+    border-color:  #0A66C2;;
+    border-radius: 40px;
+    color: white;
+    background: #0A66C2;
+    cursor: pointer;
+}
+.button3:hover{
+    background: blue;
+}
+.label2{
+    width: 350px;
+    height: 90px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+.label2::placeholder{
+   padding-bottom:px;
+}
+body{
+    margin: 0px;
+   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue","Fira Sans",Ubuntu,Oxygen,"Oxygen Sans",Cantarell,"Droid Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Emoji","Segoe UI Symbol","Lucida Grande",Helvetica,Arial,sans-serif;
+}
+.body2{
+    background: #F3F2F0;
+    width: 100%;
+    height:350px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.sub{
+    display: flex;
+    justify-content:space-between;
+    
+}
+.para4{
+    margin-top: 260px;
+}
+.left-side1{
+    width: 40%;
+    text-align: left;
+    height: 480px;
+    margin-right: 100px;
+    
+    
+}
+.right-side1{
+    width: 60%;
+}
+.one,.two,.three,.four{
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}
+.para3{
+    
+    font-weight: 300;
+    font-size: 49px;
+}
+.para4{
+    font-weight: 600;
+    color: #616160;
+    margin-top: px;
+    margin-left: 70px;
+}
+
+.para6{
+    width: 100px;
+    height: 55px;
+}
+.para7{
+    width: 150px;
+    height: 55px;
+}
+.para8{
+    width: 250px;
+    height: 55px;
+}
+.para9{
+    width: 250px;
+    height: 55px;
+}
+.para10{
+    width: 170px;
+    height: 55px;
+}
+.para11{
+    width: 190px;
+    height: 55px;
+}
+.para12{
+    width: 140px;
+    height: 55px;
+}
+.para13{
+    width: 260px;
+    height: 55px;
+}
+.para14{
+    width: 130px;
+    height: 55px;
+}
+.para15{ 
+    width: 220px;
+    height: 55px;
+}
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #171717;
+}
+.para16{
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.body3{
+    width: 100%;
+    height: 290px;
+    background: #F1ECE5;
+}
+#one{
+    margin: 0;
+    color: #B24020;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 110px;
+    padding-top: 70px;
+    line-height: 1.25;
+}
+.sam{
+   margin-top: 110px;
+   margin-left: 110px;
+}
+.body3{
+    display: flex;
+    
+}
+.button4{
+    width: 140px;
+    height:60px;
+    font-size: large;
+    border-color:  #0A66C2;;
+    border-radius: 40px;
+    color:#004182;
+    background:#F1ECE5;
+    cursor: pointer;
+    border-width: 1px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.button4:hover{
+    background: rgb(215, 227, 250);
+}
+.body4{
+    width: 100%;
+    height: 850px;
+    background: #F3F2F0;
+    display: flex;
+}
+#two{
+    margin: 0;
+    color: #8F5849;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 110px;
+    padding-top: 320px;
+    line-height: 1.25;
+}
+#three{
+    font-size: 30px;
+    color:#181818;
+    padding-left:90px ;
+    font-weight: 200;
+    margin:15px;
+    
+}
+#four{
+    padding-right: ;
+}
+.body4  img{
+    margin-top: 230px;
+    margin-left: 90px;
+    
+}
+.body5{
+    width: 100%;
+    height: 770px;
+    background: white;
+    display: flex;
+}
+.a1{
+    width: 40%;
+    padding-left: 115px;
+    padding-top: 125px;
+    font-size: 48px;
+    font-weight: 200;
+}
+.a2{
+    width: 40%;
+    padding-top: 125px;
+    /* padding-top: 125px; */
+    padding-left: 115px;
+    font-size: 48px;
+    font-weight: 200;
+}
+#a3{
+    height: 60px;
+    width: 250px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    background: white;
+    border-width: 1px;
+    cursor: pointer;
+}
+#a3:hover{
+    background: #f1eded;
+}
+#a4{
+    width: 390px;
+    height:50px ;
+    border-width: 1px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.body6{
+    width: 100vw;
+    height: 770px;
+    background: white;
+    display: flex;
+    
+   
+    
+}
+.b1{
+    width: 50%;
+    height:700px ;
+    margin-top: 50px;
+    background: #F3F2F0;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.b2{
+    width: 30%;
+    padding-left: 100px;
+    
+    
+}
+.b2 img{
+    overflow-x: hidden;
+    /* zoom: 100%; */
+}
+#c1{
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0px;
+    color: #b24020;
+
+    padding-top: 140px;
+}
+#c2{
+    margin: 0px;
+    padding-left: 90px;
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 1.25;
+    color: rgba(0, 0, 0, 0.9);
+}
+.d{
+    display: flex;
+    min-height: 56px;
+    width: 408px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.25;
+    color: rgba(0, 0, 0, 0.9);
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+#d3{
+    padding-left: 200px;
+}
+.body7{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    
+
+
+}
+.f1{
+    position: relative;
+    width: 40%;
+    height: 600px;
+    
+}
+.f2{
+    
+    width: 60%;
+    height: 600px;
+    background: #F4FAFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.f2 h1{
+    font-size: 40px;
+    font-weight: 400;
+    color: #b24020;
+    margin-right: 90px;
+}
+.f2 h2{
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 1.25;
+    color: rgba(0, 0, 0, 0.9);
+    margin: 0;
+}
+iframe{
+    position: absolute;
+    top: 150px;
+    left:100px;
+}
+.body8{
+    background-image:url("Day1/Capture11.PNG");
+    width: 100%;
+    height: 100%;
+}
+.body9{
+    width: 100%;
+    height: 700px;
+    background: #F3F2F0;
+    display: flex;
+}
+.final{
+margin-left: 150px;
+}
+#e2{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+th, td{
+    padding-left: 70px;
+    border-spacing: 10px;
+    
+}
+tr{
+    height: 0px;
+    margin: 0;
+}
